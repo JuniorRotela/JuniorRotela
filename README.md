@@ -10,7 +10,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorRotela&theme=neon&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorRotela&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorRotela&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso en mi dia a dia
 
