@@ -7,6 +7,11 @@
 [![Linkeding](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorRotela&theme=neon&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorRotela&hide_progress=true)
+
 ## Tecnologias que uso en mi dia a dia
 
 <div style="display: inline_block">
@@ -17,5 +22,3 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juniorRotela&theme=neon&show_icons=true)
